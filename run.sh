@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start time: December 7, 2024 at 00:00
-start_time="2025-02-03T11:13:50"
+start_time="2025-01-03T11:13:50"
 
 # Convert start time to epoch seconds
 current_epoch=$(date -d "$start_time" +%s)
